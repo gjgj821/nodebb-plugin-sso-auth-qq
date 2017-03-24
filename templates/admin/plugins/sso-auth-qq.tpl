@@ -4,7 +4,7 @@
 	<div class="alert alert-info">
 		<ol>
 				<li>
-					Create a new App via the <a href="http://open.weibo.com/">QQ apps Page</a> and then
+					Create a new App via the <a href="http://open.qq.com/">QQ apps Page</a> and then
 					paste your application details here. Your <em>Callback URL</em> is <code>http://your.domain/auth/qq/callback</code>
 					(replace <code>your.domain</code> as necessary).
 				</li>
@@ -19,7 +19,7 @@
 	</div>
 	<form role="form" class="sso-auth-qq-settings">
 		<div class="form-group">
-			<label for="key">App Id</label>
+			<label for="id">App Id</label>
 			<input type="text" name="id" id="id" title="API Id" class="form-control" placeholder="App Id">
 		</div>
 		<div class="form-group">
